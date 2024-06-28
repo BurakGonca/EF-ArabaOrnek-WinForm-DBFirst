@@ -1,6 +1,6 @@
-# EF-ArabaOrnek-WinForm-DBFirst
+# EF-ArabaOrnek-WinForm-CodeFirst
 
-Entity Framework DBFirst Yaklasimi Ornegi Icin Basit Bir Windows Form Uygulamasi.
+Entity Framework CodeFirst Yaklasimi Ornegi Icin Basit Bir Windows Form Uygulamasi.
 
 ![1](https://github.com/BurakGonca/EF-ArabaOrnek-WinForm-DBFirst/assets/154968593/31234c34-2a39-4ea4-b18e-ab5fd7993f2f)
 ![2](https://github.com/BurakGonca/EF-ArabaOrnek-WinForm-DBFirst/assets/154968593/7e173461-cd91-43a7-9932-76b739bf695a)
